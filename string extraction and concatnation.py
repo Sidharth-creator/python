@@ -1,5 +1,5 @@
 '''
-Author: Sourav V S
+Author: Sidharth.sS
 Date:05-10-2024
 This program is to extract a substring from a string and concatenate it with another string
 '''
