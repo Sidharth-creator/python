@@ -1,3 +1,12 @@
+'''
+Author:sidharth.S
+date:08-10-2024
+'''
+
+
+
+
+
 number1=int(input("enter the first number:"))
 number2=int(input("entre the second number"))
 number3=int(input("enter te third number:"))
