@@ -1,3 +1,11 @@
+
+'''author:Sidharth.S
+  Date:15-10-2024
+  this program is to find the positive number and negative number'''
+
+
+
+
 number1=int(input("enter the first nuber:"))
 number2=int(input("enter the second number:"))
 number3=int(input("enter ten third number:"))
