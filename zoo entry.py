@@ -1,3 +1,10 @@
+'''author:Sidharth.S
+  Date:15-10-2024
+  this program is to find the positive number and negative number'''
+
+
+
+
 age=int(input("enter the age"))
 if age<10:
     print("ticket price=7")
