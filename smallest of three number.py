@@ -1,3 +1,12 @@
+'''
+Author:sidharth.S
+date:08-10-2024
+TO FIND THE SMALLEST NUMBER FROM THREE
+'''
+
+
+
+
 number1=int(input("enter the number 1:"))
 number2=int(input("enter the number 2:"))
 number3=int(input("enter the number3:"))
