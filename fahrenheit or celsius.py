@@ -1,3 +1,11 @@
+'''
+Author:sidharth.S
+date:08-10-2024
+TO CONVERT FAHRENHEIT VALUE INTO CELSIUS AND VICE-VERSA
+'''
+
+
+
 temperature=float(input("enter the temperature:"))
 unit=input("is the temperature is fahrenheit or celsius(C or f):")
 if unit=="C" or unit=="c":
